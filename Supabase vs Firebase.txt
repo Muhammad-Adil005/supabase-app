@@ -1,0 +1,17 @@
+The Difference b/w Supabase & Firebase is:>  Firebase used NOSQL database and Supabase used PostgreSQL
+
+we used the package called supabase_flutter 
+
+Setup for Supabase 
+
+1) go to Supabase website and create an account
+2) then clicked on create project
+3) then give Name to project like CRUD , generate password for Database password and thn choose a Region nearest to you and Clicked on Create project
+4) then go to Project API and copy the 
+Project URL and pasted inside main file at the top URL field
+API key and pasted insdie  main file at the top of anonKey Field
+
+
+5) Then go the Authetication section there go to Providers and then Clicked on Email and Disable the Option called Confirm email and then clicked on Save
+
+6) 
